@@ -27,17 +27,17 @@ Bot Owner Only
 
 [➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
 
-@Mo_Tech_YT
+@MoviePlayr
 """
 
 ABOUT = """
-➥ Name :  Auto Filter With IMDB
+➥ Name :  Movie Play Bot 3
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [Volvex Curio](t.me/Curio_VolvEX)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Source Code : [Click Me](https://t.me/ok_bie_1223/15)
 """
